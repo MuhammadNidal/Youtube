@@ -1,0 +1,38 @@
+         
+         ======>>>>Video & Audio Tags <<<========
+
+
+        =======>>>>The <video> Tag <<<<=========
+
+The <video> tag is used to embed video files in an HTML document. It supports multiple attributes to control the video playback.
+
+Example usage:
+
+<video src="motivation.mp4" controls></video>
+
+
+         ======>>>>  Attributes for <video> Tag  <<<=========
+
+ src: Specifies the path to the video file.
+ controls: Adds video controls, like play, pause, and volume.
+ autoplay: Automatically starts playing the video when the page loads.
+ loop: Repeats the video once it ends.
+ muted: Mutes the video by default.
+ width and height: Specifies the dimensions of the video.
+
+
+
+
+                =======>>>>The <audio> Tag <<<<=========
+                
+The <audio> tag is used to embed audio files in an HTML document. It also supports multiple attributes for control.
+
+Example usage:
+
+<audio src="audio.mp3" controls></audio>
+Attributes for <audio> Tag
+src: Specifies the path to the audio file.
+controls: Adds audio controls, like play, pause, and volume.
+autoplay: Automatically starts playing the audio when the page loads.
+loop: Repeats the audio once it ends.
+muted: Mutes the audio by default.
